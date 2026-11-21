@@ -45,7 +45,7 @@ An interactive Excel dashboard built on 7,800+ order lines: pick a year and ever
 
 Need a dashboard or an automated report? Let's talk.
 
-- **Fiverr:** available for Excel & Power BI dashboard projects
+- **Fiverr:** [Hire me on Fiverr](https://www.fiverr.com/sellers/amituniyalau/)
 - **GitHub:** [@amiuniyal](https://github.com/amiuniyal)
 
 > All projects use fictional sample data created for demonstration. No client or employer data is used.
