@@ -1,0 +1,31 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+P001,Nova X1 Smartphone,Electronics,Mobiles,399,325.61
+P002,Nova Lite Smartphone,Electronics,Mobiles,219,192.17
+P003,Pixelon Pro Phone,Electronics,Mobiles,749,638.52
+P004,AeroBook 14,Electronics,Laptops,899,771.05
+P005,AeroBook Pro 16,Electronics,Laptops,1499,1208.72
+P006,StudyMate 13,Electronics,Laptops,549,445.97
+P007,Wireless Earbuds,Electronics,Accessories,59,46.66
+P008,Fast Charger 65W,Electronics,Accessories,29,25.27
+P009,Smartwatch Fit,Electronics,Accessories,129,108.08
+P010,Bluetooth Speaker,Electronics,Accessories,79,69.28
+P011,ErgoFlex Office Chair,Furniture,Chairs,229,180.77
+P012,Classic Dining Chair,Furniture,Chairs,89,66.68
+P013,Oak Study Desk,Furniture,Tables,319,260.39
+P014,Glass Coffee Table,Furniture,Tables,179,141.8
+P015,4-Shelf Bookcase,Furniture,Storage,139,101.33
+P016,Wardrobe Duo,Furniture,Storage,459,341.36
+P017,A4 Copy Paper (Box),Office Supplies,Paper,32,21.34
+P018,Spiral Notebooks (5pk),Office Supplies,Paper,12,7.34
+P019,Ring Binder Set,Office Supplies,Binders,18,10.41
+P020,Document Folders (10pk),Office Supplies,Binders,9,6.29
+P021,Gel Pen Set,Office Supplies,Art & Stationery,7,4.05
+P022,Desk Organizer,Office Supplies,Art & Stationery,24,14.29
+P023,Whiteboard Markers,Office Supplies,Art & Stationery,11,7.14
+P024,Air Fryer 5L,Home & Kitchen,Appliances,119,90.41
+P025,Coffee Maker,Home & Kitchen,Appliances,89,58.35
+P026,Mixer Grinder,Home & Kitchen,Appliances,69,50.8
+P027,Non-Stick Pan Set,Home & Kitchen,Cookware,64,49.15
+P028,Steel Pressure Cooker,Home & Kitchen,Cookware,49,37.6
+P029,LED Table Lamp,Home & Kitchen,Decor,34,22.77
+P030,Wall Clock,Home & Kitchen,Decor,22,15.43

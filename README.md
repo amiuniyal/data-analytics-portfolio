@@ -8,6 +8,7 @@ I help businesses turn messy spreadsheets into clean, interactive dashboards and
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0F7C8C?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-1F3864?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -16,8 +17,9 @@ I help businesses turn messy spreadsheets into clean, interactive dashboards and
 | # | Project | Tool | What it shows |
 |---|---------|------|---------------|
 | 01 | [UrbanCart Sales Performance Dashboard](./01-excel-sales-dashboard) | Excel | KPI cards, year filter, 5 linked charts, formula-driven model |
+| 02 | [UrbanCart Sales Analysis](./02-sql-sales-analysis) | SQL | 5-table database, 12 business questions, CTEs and window functions |
 
-*More projects (HR, Finance, Inventory and Power BI dashboards) coming soon.*
+*More projects (HR, Finance and Power BI dashboards) coming soon.*
 
 ---
 
@@ -34,6 +36,7 @@ An interactive Excel dashboard built on 7,800+ order lines: pick a year and ever
 - **Power BI:** data modelling (star schema), DAX measures, interactive reports, drill-downs
 - **Excel:** dashboards, advanced formulas (SUMIFS, INDEX-MATCH, XLOOKUP), pivot tables, charts
 - **Power Query:** data cleaning, merging and transformation, refreshable reports
+- **SQL:** joins, CTEs, window functions (LAG, RANK, running totals), CASE logic, database design
 - **Business areas:** sales, finance, inventory, HR, audit and operations reporting
 
 ## 📜 Certifications

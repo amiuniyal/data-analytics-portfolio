@@ -13,7 +13,7 @@ Management needed one place to answer: *How are sales and profit trending? Which
 | Table | Rows | Description |
 |-------|------|-------------|
 | Orders | 7,844 | Order lines: date, product, customer, region, channel, quantity, discount, sales, cost, profit, returns |
-| Products | 37 | 4 categories, 13 sub-categories, unit price and cost |
+| Products | 30 | 4 categories, 12 sub-categories, unit price and cost |
 | Customers | 600 | Consumer, Corporate and Small Business segments |
 | Regions | 8 | Cities across North, South, West and Central |
 | Targets | 144 | Monthly sales targets by region |

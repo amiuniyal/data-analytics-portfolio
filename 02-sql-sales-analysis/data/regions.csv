@@ -1,0 +1,9 @@
+region_id,region,city,country
+R01,North,New York,USA
+R02,North,Boston,USA
+R03,South,Houston,USA
+R04,South,Miami,USA
+R05,West,Los Angeles,USA
+R06,West,Seattle,USA
+R07,Central,Chicago,USA
+R08,Central,Denver,USA
